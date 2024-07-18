@@ -1,6 +1,11 @@
 # Stanford University's Code in Place:
 Baby Snake Game Project 
 
+![image](https://github.com/user-attachments/assets/977b5d20-222b-4137-a807-d6c8152572de)
+
+
+
+
 This project aims to create a simplified version of the classic Snake game. Our version, "Baby Snake," will feature a basic game world with a player and a goal. The player, represented by a blue square, starts in the top left corner, while the goal, represented by a red square, is placed at coordinates that are multiples of 20.  
 **Milestone #1: Set Up the World**  In this milestone, we will:  
 1. **Initialize the Game Environment** :  Set up the game window using a graphical library.
